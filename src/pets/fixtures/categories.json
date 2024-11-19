@@ -1,0 +1,23 @@
+[
+    {
+      "fields": {
+        "name": "Reptiles"
+      },
+      "model": "pets.category",
+      "pk": 1
+    },
+    {
+      "fields": {
+        "name": "Mammals"
+      },
+      "model": "pets.category",
+      "pk": 2
+    },
+    {
+      "fields": {
+        "name": "Insects"
+      },
+      "model": "pets.category",
+      "pk": 3
+    }
+]

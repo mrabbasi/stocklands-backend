@@ -1,0 +1,102 @@
+[
+    {
+      "fields": {
+        "name": "Dog",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 1
+    },
+    {
+      "fields": {
+        "name": "Cat",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 2
+    },
+    {
+      "fields": {
+        "name": "Bear",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 3
+    },
+    {
+      "fields": {
+        "name": "Tortoise",
+        "category": 1,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 4
+    },
+    {
+      "fields": {
+        "name": "Snake",
+        "category": 1,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 5
+    },
+    {
+      "fields": {
+        "name": "Elephant",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 6
+    },
+    {
+      "fields": {
+        "name": "Kangaroo",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 7
+    },
+    {
+      "fields": {
+        "name": "Cow",
+        "category": 2,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 8
+    },
+    {
+      "fields": {
+        "name": "Ant",
+        "category": 3,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 9
+    },
+    {
+      "fields": {
+        "name": "Wasp",
+        "category": 3,
+        "available": true,
+        "dob": "2018-01-01"
+      },
+      "model": "pets.pet",
+      "pk": 10
+    }
+  ]
